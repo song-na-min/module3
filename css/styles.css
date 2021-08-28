@@ -6,9 +6,7 @@ body {
 	box-sizing:border-box;
 }
 /* header*/
-#header{
-	margin-left:15px;
-}
+
 #header-nav{
 	background-color:#A6A6A6;
 	border-radius:0;
